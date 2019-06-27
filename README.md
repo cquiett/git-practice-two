@@ -1,2 +1,2 @@
 Hello there! It's me again! Ha Ha and a LOL!!!
-I typed this from the GitHub site! 
+I made this change via my MacBook Pro.
